@@ -23,3 +23,10 @@ C:\Users\jul\Desktop\games asp .net core\gamesApi\obj\Debug\net8.0\refint\gamesA
 C:\Users\jul\Desktop\games asp .net core\gamesApi\obj\Debug\net8.0\gamesApi.pdb
 C:\Users\jul\Desktop\games asp .net core\gamesApi\obj\Debug\net8.0\gamesApi.genruntimeconfig.cache
 C:\Users\jul\Desktop\games asp .net core\gamesApi\obj\Debug\net8.0\ref\gamesApi.dll
+C:\Users\jul\Desktop\games asp .net core\gamesApi\obj\Debug\net8.0\gamesApi.sourcelink.json
+C:\Users\jul\Desktop\games asp .net core\gamesApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jul\Desktop\games asp .net core\gamesApi\bin\Debug\net8.0\MinimalApis.Extensions.dll
+C:\Users\jul\Desktop\games asp .net core\gamesApi\bin\Debug\net8.0\MiniValidation.dll
+C:\Users\jul\Desktop\games asp .net core\gamesApi\obj\Debug\net8.0\gamesApi.csproj.AssemblyReference.cache
+C:\Users\jul\Desktop\games asp .net core\gamesApi\obj\Debug\net8.0\gamesApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jul\Desktop\games asp .net core\gamesApi\obj\Debug\net8.0\gamesApi.csproj.Up2Date
