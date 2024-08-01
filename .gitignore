@@ -1,0 +1,87 @@
+# .NET Core
+**/bin/
+**/obj/
+
+# ASP.NET Core
+wwwroot/
+*.db
+*.db-journal
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.db
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# DotCover
+*.dotCover
+
+# NCrunch
+*.ncrunch*
+nCrunchTemp_
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]eleases/
+[Rr]eleasesPublic/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Azure Pipelines
+azure-pipelines.yml
+
+# Local history for JetBrains IDEs
+.idea/.idea_history/
+
+# Coverlet
+coverage/
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+
+# Microsoft Azure
+publish/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Sensitive files
+appsettings*.json
+secrets.json
+
+# Dotnet tools
+*.dotnet/
+
+# macOS Finder
+.DS_Store
+
+# Windows thumbnails
+Thumbs.db
+
+# JetBrains IDEs
+*.iml
+
+# End of .gitignore

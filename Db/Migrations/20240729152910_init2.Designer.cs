@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using gamesApi;
 
@@ -10,9 +11,11 @@ using gamesApi;
 namespace gamesApi.Db.Migrations
 {
     [DbContext(typeof(GamesDbContext))]
-    partial class GamesDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240729152910_init2")]
+    partial class init2
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "9.0.0-preview.6.24327.4");
