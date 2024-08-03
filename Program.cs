@@ -10,7 +10,8 @@ var app = builder.Build();
 
 
 app.MapGamesRoutes();
+app.MapGenresRoutes();  
 
-app.MigrateDb();
+await app.MigrateDbAsync();
 
 app.Run();
